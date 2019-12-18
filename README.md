@@ -23,7 +23,7 @@ You are now logged into the portal with your new account! Welcome to __Revolut's
 
 You can create an app by accessing [My Apps](https://developers.revolut.com/apps). You don't have any apps yet, let's create one.
 
-![](/Users/aroux/Desktop/revolut1.png =250x250)
+![](revolut1.png =250x250)
 
 Click on `Create a new app`
 
