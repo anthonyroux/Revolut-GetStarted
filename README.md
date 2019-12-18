@@ -27,7 +27,7 @@ You can create an app by accessing [My Apps](https://developers.revolut.com/apps
 
 Click on `Create a new app`
 
-Enter your `App name`, your `OAuth redirect URI` (you can add more than one) and setup the rights of your app (will it be read only? If yes do not touch anything. If you need write access please click on the button to enable it). Click on `Continue`.
+Enter your `App name`, your `OAuth redirect URI` (you can add more than one) and set-up the rights of your app (will it be read-only? If yes do not touch anything. If you need write access please click on the button to enable it). Click on `Continue`.
 
 **You’ve created your first app!**
 
@@ -40,7 +40,7 @@ Once you created your account and set your organization id, you can ask for a te
 
 ## Make your first API call
 
-**`MISSING INFORMATION as I didn't requested the account in test`**
+**`MISSING INFORMATION as I didn't request the account in test`**
 
 Congratulations! You have just made your first Revolut Open Banking API call!
 
